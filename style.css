@@ -1,0 +1,157 @@
+.list-1{
+    display: inline;
+    font-size: 15px;
+    margin-right: 15px;
+}
+
+.list-2{
+    color: green;
+    display: inline;
+    font-size: 15px;
+}
+
+.upper{
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: royalblue;
+    padding-left: 10px;
+    padding-top: 10px;
+
+    
+    
+}
+.upper-1{
+    color: white;
+    display: inline-block;
+    width: 25%;
+}
+
+.buttons{
+    padding-top: 10px;
+    width: 35%;
+}
+
+
+.navigation{
+    background-color:lavender;
+    height: 70px;
+    width: 100%;
+    
+    display: flex;
+}
+
+
+.upper-3{
+    width: 80%;
+   
+    margin-left: 90px;
+    flex-wrap: wrap;
+    }
+
+
+.list-3{
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+
+
+
+.paragraph{
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: gray;
+    
+}
+
+.bottom{
+    width: 100%;
+    height: 400px;
+    padding: 50px;
+    font-family: serif;
+    display: flex;
+    background-color:royalblue;
+    color:white;
+    text-align: center;
+    font-size: 50px;
+
+   
+}
+
+
+
+
+.bottom-2{
+    width: 100%;
+
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.boxes{
+    font-family: serif;
+    color: royalblue;
+    font-size: 22px;
+    width: 25%;
+    height: 200px;
+    background-color: white;
+    border: solid 2px white;
+    margin: 20px;
+    box-shadow: 10px 10px 8px  lightgrey;
+    padding: 40px;
+}
+
+.bottom-3{
+    width: 100%;
+    background-color: white;
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.bottom-3-1{
+
+    align-content: center;
+    
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sub{
+    
+    font-family: serif;
+    font-size: 18px;
+    color: royalblue;
+    height: 70px;
+    border: solid white;
+    background-color: lavender;
+    width: 40%;
+    margin:10px ;
+    margin-bottom: 0px;
+    padding: 10px;
+    margin-left: 30px;
+    
+    
+
+}
+.bottom-3-2{
+
+    margin-top: 80px;
+    width: 20%;
+
+}
+
+.bottom-last{
+    width: 100%;
+    background-color: darkslategray;
+     padding-top:80px;
+     display: flex;
+     flex-wrap: wrap;
+     padding-bottom: 80px;
+}
+
